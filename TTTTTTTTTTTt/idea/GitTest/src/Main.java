@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("AAA");
-        System.out.println();
+        System.out.println("ACCAA");
+        System.out.println();ccc
     }
 }
